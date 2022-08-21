@@ -53,10 +53,9 @@ A full-stack iOS native application for internal staffs to streamline B2B proced
 
 #### Edit Class View
 <details>
-  <summary> Staff selection & device selection base on availability (determined base on database records)
-
+  <summary> Staff selection & device selection base on availability (determined base on database records </summary>
+  
   https://user-images.githubusercontent.com/73326875/185794158-f916bc64-6b93-48a2-97ab-978274bb971f.mp4
-  </summary>
 </details>
 
 ![1_Home_Class_Edit](https://user-images.githubusercontent.com/73326875/185792212-fec896ae-d4ca-4c60-ada7-35759c4f184d.png)
@@ -96,7 +95,7 @@ https://user-images.githubusercontent.com/73326875/185793823-eb72bafd-11ec-4a09-
   
 </details>
 <details>
-  <summary> Job Application (Auto draft eamil with template format) </summary>
+  <summary> Job Application (auto draft eamil with template format) </summary>
   <img src="https://user-images.githubusercontent.com/73326875/185793887-5a8e94de-184b-45ac-8ca0-a9b8bc24879b.PNG" width="400">
 
 </details>
@@ -105,15 +104,13 @@ https://user-images.githubusercontent.com/73326875/185793823-eb72bafd-11ec-4a09-
 
 
 <details>
-  <summary> Login </summary>
+  <summary> Log in </summary>
   
   https://user-images.githubusercontent.com/73326875/185791501-776d91ea-ea6e-40ed-9ada-1e427e4beef1.mp4
-  
 </details>
 
 <details>
-  <summary> Sign up </summary>
+  <summary> Sign-up </summary>
   <img src="https://user-images.githubusercontent.com/73326875/185791991-84b2793d-8a3f-4439-bf60-9cde6891ce85.png" width="400">
-  
 </details>
 
