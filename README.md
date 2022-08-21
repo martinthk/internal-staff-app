@@ -29,8 +29,8 @@ A full-stack iOS native application for internal staffs to streamline B2B proced
     - Base on auto-accumulating working hours
 
 ### Build with
-| Tech used| Description |
-|-----------------|:-------------|
+| Tech used | Description |
+|:----------------|:-------------|
 | Swift | Front-end  |
 | PHP | Back-end communication |
 | phpMyAdmin | Database management  |
@@ -39,11 +39,11 @@ A full-stack iOS native application for internal staffs to streamline B2B proced
 
 ## Screenshots
 
-
 ### Home Tab
 <details>
   <summary> Activate overlay menu via gesture </summary>
-https://user-images.githubusercontent.com/73326875/185791806-828b29bb-b77c-4f3d-9cfe-ef9bc1eedd29.mp4
+  
+  https://user-images.githubusercontent.com/73326875/185791806-828b29bb-b77c-4f3d-9cfe-ef9bc1eedd29.mp4
 </details>
 
 ![1_Home](https://user-images.githubusercontent.com/73326875/185791862-5c4bf6ab-1025-4d97-98dc-12bed957843e.png)
@@ -54,16 +54,14 @@ https://user-images.githubusercontent.com/73326875/185791806-828b29bb-b77c-4f3d-
 #### Edit Class View
 <details>
   <summary> Staff selection & device selection base on availability (determined base on database records)
-  
-     
-  
+
+  https://user-images.githubusercontent.com/73326875/185794158-f916bc64-6b93-48a2-97ab-978274bb971f.mp4
   </summary>
 </details>
 
 ![1_Home_Class_Edit](https://user-images.githubusercontent.com/73326875/185792212-fec896ae-d4ca-4c60-ada7-35759c4f184d.png)
 
 ### Calender Tab
-
 
 ![2_Calendar](https://user-images.githubusercontent.com/73326875/185791937-c5db17db-39ae-4659-810a-09cd9f31095f.png)
 
@@ -79,8 +77,7 @@ https://user-images.githubusercontent.com/73326875/185791806-828b29bb-b77c-4f3d-
 
 
 ### Account Tab
-#### Features
-
+- Tier based on auto-accumulating working hours
 
 ![4_Account](https://user-images.githubusercontent.com/73326875/185791966-ca46f8e8-1429-4be8-9925-16ac71cbc8cb.png)
 
@@ -88,8 +85,23 @@ https://user-images.githubusercontent.com/73326875/185791806-828b29bb-b77c-4f3d-
 ![4_Account_Edit](https://user-images.githubusercontent.com/73326875/185791973-89d93c35-f08e-411a-aaa7-5740ca14f96a.png)
 
 ### Side Menu
-![0_Side Menu](https://user-images.githubusercontent.com/73326875/185792254-b4fd8ab5-6d77-432b-b2b3-b611dd8212c1.png)
+<details>
+  <summary> Apply Shift (with pre-defined filter options) </summary>
+  
+  
 
+https://user-images.githubusercontent.com/73326875/185793823-eb72bafd-11ec-4a09-be57-9a4667f88c9e.mp4
+
+
+  
+</details>
+<details>
+  <summary> Job Application (Auto draft eamil with template format) </summary>
+  <img src="https://user-images.githubusercontent.com/73326875/185793887-5a8e94de-184b-45ac-8ca0-a9b8bc24879b.PNG" width="400">
+
+</details>
+
+![0_Side Menu](https://user-images.githubusercontent.com/73326875/185792254-b4fd8ab5-6d77-432b-b2b3-b611dd8212c1.png)
 
 
 <details>
@@ -101,6 +113,7 @@ https://user-images.githubusercontent.com/73326875/185791806-828b29bb-b77c-4f3d-
 
 <details>
   <summary> Sign up </summary>
-  ![Simulator Screen Shot - iPhone 11 - 2022-01-21 at 12 47 31](https://user-images.githubusercontent.com/73326875/185791991-84b2793d-8a3f-4439-bf60-9cde6891ce85.png)
+  <img src="https://user-images.githubusercontent.com/73326875/185791991-84b2793d-8a3f-4439-bf60-9cde6891ce85.png" width="400">
+  
 </details>
 
