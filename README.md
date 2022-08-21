@@ -37,13 +37,20 @@ A full-stack iOS native application for internal staffs to streamline B2B proced
 | Firebase | Cloud messaging  |
 | APNs | Send push notification to deives  |
 
-## Screenshots
+## Screenshots/ Recording
 
 ### Home Tab
+- Call user's phone number via clicking on their icons
 <details>
   <summary> Activate overlay menu via gesture </summary>
   
   https://user-images.githubusercontent.com/73326875/185791806-828b29bb-b77c-4f3d-9cfe-ef9bc1eedd29.mp4
+</details>
+
+<details>
+  <summary> Integration with Google Map (generate route to destination)</summary>
+
+  https://user-images.githubusercontent.com/73326875/185796163-59cde8a4-73c3-4511-872f-bb756854ab20.mp4
 </details>
 
 ![1_Home](https://user-images.githubusercontent.com/73326875/185791862-5c4bf6ab-1025-4d97-98dc-12bed957843e.png)
@@ -64,7 +71,20 @@ A full-stack iOS native application for internal staffs to streamline B2B proced
 
 ![2_Calendar](https://user-images.githubusercontent.com/73326875/185791937-c5db17db-39ae-4659-810a-09cd9f31095f.png)
 
+### Add Class Form
+<details>
+  <summary> Complete steps to add a class </summary>
+
+  https://user-images.githubusercontent.com/73326875/185796014-5d20b10f-1de0-4324-a50b-64e1560f9850.mp4
+</details>
+
 ### Device Tab
+<details>
+  <summary> Navigation in device tab </summary>
+
+  https://user-images.githubusercontent.com/73326875/185796403-c5164420-38ed-4e10-b08c-ade28dd998b7.mp4
+
+</details>
 
 ![3_Device](https://user-images.githubusercontent.com/73326875/185791941-3d6af117-1508-4edb-87a8-f45cfc2c029e.png)
 
@@ -81,17 +101,20 @@ A full-stack iOS native application for internal staffs to streamline B2B proced
 ![4_Account](https://user-images.githubusercontent.com/73326875/185791966-ca46f8e8-1429-4be8-9925-16ac71cbc8cb.png)
 
 #### Edit Account View
+<details>
+  <summary> Pick image from device's album </summary>
+
+  https://user-images.githubusercontent.com/73326875/185794952-370d5059-867c-4bb4-953c-dba679daa28d.mp4
+
+</details>
+
 ![4_Account_Edit](https://user-images.githubusercontent.com/73326875/185791973-89d93c35-f08e-411a-aaa7-5740ca14f96a.png)
 
 ### Side Menu
 <details>
   <summary> Apply Shift (with pre-defined filter options) </summary>
-  
-  
 
-https://user-images.githubusercontent.com/73326875/185793823-eb72bafd-11ec-4a09-be57-9a4667f88c9e.mp4
-
-
+  https://user-images.githubusercontent.com/73326875/185793823-eb72bafd-11ec-4a09-be57-9a4667f88c9e.mp4
   
 </details>
 <details>
