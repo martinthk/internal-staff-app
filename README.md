@@ -1,4 +1,4 @@
-# Aero Alliance
+# Internal Staff App
 A full-stack iOS native application for internal staffs to streamline B2B procedures.
 
 ![Thumbnail](https://user-images.githubusercontent.com/73326875/185791121-594d8200-4d5a-4327-8198-96ac87e8df29.png)
