@@ -11,11 +11,11 @@ A full-stack iOS native application for internal staffs to streamline B2B proced
         <li>
             <a href="#key-features">Key Features</a>
             <ul>
-                <li><a href="#built-with">Built with</a></li>
+                <li><a href="#build-with">Build with</a></li>
             </ul>
         </li>
         <li>
-            <a href="#screenshots-recording"> Screenshots/ Recordings </a>
+            <a href="#screenshots-recordings"> Screenshots/ Recordings </a>
             <ul>
                 <li><a href="#home-tab"> Home Tab </a>
                     <ul>
@@ -27,7 +27,7 @@ A full-stack iOS native application for internal staffs to streamline B2B proced
                 <li><a href="#add-class-form"> Add Class Form </a></li>
                 <li><a href="#device-tab"> Device Tab </a>
                     <ul>
-                        <li><a href="#class-subview"> Device Subview </a></li>
+                        <li><a href="#device-subview"> Device Subview </a></li>
                         <li><a href="#edit-device-view"> Edit Device View </a></li>
                     </ul>
                 </li>
