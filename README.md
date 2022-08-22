@@ -6,44 +6,39 @@ A full-stack iOS native application for internal staffs to streamline B2B proced
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
-  <ol>
-  
-    <li>
-      <a href="#key-features">Key Features</a>
-      <ul>
-        <li><a href="#built-with">Built with</a></li>
-      </ul>
-    </li>
-    
-    <li>
-      <a href="#screenshots-recording"> Screenshots/ Recordings </a>
-      <ul>
-      
-        <li><a href="#home-tab"> Home Tab </a>
-          <ul>
-            <li><a href="#class-subview"> Class Subview </a></li>
-            <li><a href="#edit-class-view"> Edit Class View </a></li>
-          </ul>
-        </li>
-        
-        <li><a href="#calender-tab"> Calender Tab </a></li>
-        <li><a href="#add-class-form"> Add Class Form </a></li>
-        <li><a href="#device-tab"> Device Tab </a>
-          <ul>
-            <li><a href="#class-subview"> Device Subview </a></li>
-            <li><a href="#edit-device-view"> Edit Device View </a></li>
-          </ul>
-        </li>
-        <li><a href="#account-tab"> Account Tab </a></li>
+    <summary>Table of Contents</summary>
+    <ol>
+        <li>
+            <a href="#key-features">Key Features</a>
             <ul>
-                <li><a href="#edit-account-view"> Edit Account View </a></li>
-          </ul>
-        </ul>
-        <li><a href="#side-menu"> Side Menu </a></li>
-      </li>
-    
-  </ol>
+                <li><a href="#built-with">Built with</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="#screenshots-recording"> Screenshots/ Recordings </a>
+            <ul>
+                <li><a href="#home-tab"> Home Tab </a>
+                    <ul>
+                        <li><a href="#class-subview"> Class Subview </a></li>
+                        <li><a href="#edit-class-view"> Edit Class View </a></li>
+                    </ul>
+                </li>
+                <li><a href="#calender-tab"> Calender Tab </a></li>
+                <li><a href="#add-class-form"> Add Class Form </a></li>
+                <li><a href="#device-tab"> Device Tab </a>
+                    <ul>
+                        <li><a href="#class-subview"> Device Subview </a></li>
+                        <li><a href="#edit-device-view"> Edit Device View </a></li>
+                    </ul>
+                </li>
+                <li><a href="#account-tab"> Account Tab </a></li>
+                <ul>
+                    <li><a href="#edit-account-view"> Edit Account View </a></li>
+                </ul>
+                <li><a href="#side-menu"> Side Menu </a></li>
+            </ul>
+        </li>
+    </ol>
 </details>
 
 ## Key Features
