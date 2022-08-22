@@ -8,13 +8,41 @@ A full-stack iOS native application for internal staffs to streamline B2B proced
 <details>
   <summary>Table of Contents</summary>
   <ol>
+  
     <li>
       <a href="#key-features">Key Features</a>
       <ul>
         <li><a href="#built-with">Built with</a></li>
       </ul>
     </li>
+    
     <li>
+      <a href="#screenshots-recording"> Screenshots/ Recordings </a>
+      <ul>
+      
+        <li><a href="#home-tab"> Home Tab </a>
+          <ul>
+            <li><a href="#class-subview"> Class Subview </a></li>
+            <li><a href="#edit-class-view"> Edit Class View </a></li>
+          </ul>
+        </li>
+        
+        <li><a href="#calender-tab"> Calender Tab </a></li>
+        <li><a href="#add-class-form"> Add Class Form </a></li>
+        <li><a href="#device-tab"> Device Tab </a>
+          <ul>
+            <li><a href="#class-subview"> Device Subview </a></li>
+            <li><a href="#edit-device-view"> Edit Device View </a></li>
+          </ul>
+        </li>
+        <li><a href="#account-tab"> Account Tab </a></li>
+            <ul>
+                <li><a href="#edit-account-view"> Edit Account View </a></li>
+          </ul>
+        </ul>
+        <li><a href="#side-menu"> Side Menu </a></li>
+      </li>
+    
   </ol>
 </details>
 
@@ -37,7 +65,7 @@ A full-stack iOS native application for internal staffs to streamline B2B proced
 | Firebase | Cloud messaging  |
 | APNs | Send push notification to deives  |
 
-## Screenshots/ Recording
+## Screenshots/ Recordings
 
 ### Home Tab
 - Call user's phone number via clicking on their icons
@@ -91,7 +119,7 @@ A full-stack iOS native application for internal staffs to streamline B2B proced
 #### Device Subview
 ![3_Device_Subview](https://user-images.githubusercontent.com/73326875/185792006-566b8af5-cc0c-48ca-a5f0-9bf21de34684.png)
 
-#### Device Edit View
+#### Edit Device View
 ![3_Device_Subview_Edit](https://user-images.githubusercontent.com/73326875/185792010-af821e19-5401-4621-80a1-72901cf1df95.png)
 
 
